@@ -1,0 +1,1040 @@
+{
+  "inv_01.pdf": {
+    "invoice_no": "INV/2026/0001",
+    "invoice_date": "2026-11-20",
+    "due_date": "2027-01-19",
+    "seller_name": "Shree Ganesh Fasteners",
+    "seller_gstin": "27AHFTR8040G1ZZ",
+    "buyer_name": "Adani Enterprises Ltd",
+    "buyer_gstin": "27GELKH2948R1ZT",
+    "items": [
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 27,
+        "rate": 322.0,
+        "amount": 8694.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 113,
+        "rate": 22.0,
+        "amount": 2486.0
+      }
+    ],
+    "subtotal": 11180.0,
+    "cgst": 1006.2,
+    "sgst": 1006.2,
+    "total": 13192.4,
+    "confidence": 0.99
+  },
+  "inv_02.pdf": {
+    "invoice_no": "INV/2026/0002",
+    "invoice_date": "2026-08-28",
+    "due_date": "2026-10-27",
+    "seller_name": "Rajesh Metal Works",
+    "seller_gstin": "07BJZNZ8076R1ZG",
+    "buyer_name": "Larsen & Toubro Ltd",
+    "buyer_gstin": "33VZNDR9156G1ZY",
+    "items": [
+      {
+        "description": "Steel fasteners M12",
+        "qty": 117,
+        "rate": 114.0,
+        "amount": 13338.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 143,
+        "rate": 230.0,
+        "amount": 32890.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 62,
+        "rate": 621.0,
+        "amount": 38502.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 77,
+        "rate": 40.0,
+        "amount": 3080.0
+      }
+    ],
+    "subtotal": 87810.0,
+    "cgst": 7902.9,
+    "sgst": 7902.9,
+    "total": 103615.8,
+    "confidence": 0.99
+  },
+  "inv_03.pdf": {
+    "invoice_no": "INV/2026/0003",
+    "invoice_date": "2026-09-05",
+    "due_date": "2026-12-04",
+    "seller_name": "Mehta Packaging Works",
+    "seller_gstin": "29SIEYI0086Z1Z9",
+    "buyer_name": "Hindustan Unilever Ltd",
+    "buyer_gstin": "07TRSKR3842C1ZA",
+    "items": [
+      {
+        "description": "Steel fasteners M12",
+        "qty": 127,
+        "rate": 119.0,
+        "amount": 15113.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 35,
+        "rate": 168.0,
+        "amount": 5880.0
+      }
+    ],
+    "subtotal": 20993.0,
+    "cgst": 1889.37,
+    "sgst": 1889.37,
+    "total": 24771.74,
+    "confidence": 0.99
+  },
+  "inv_04.pdf": {
+    "invoice_no": "INV/2026/0004",
+    "invoice_date": "2026-09-02",
+    "due_date": "2026-12-01",
+    "seller_name": "Lakshmi Industrial Supplies",
+    "seller_gstin": "07KFZNC0167N1ZR",
+    "buyer_name": "Larsen & Toubro Ltd",
+    "buyer_gstin": "33VZNDR9156G1ZA",
+    "items": [
+      {
+        "description": "Auto wiring harness",
+        "qty": 27,
+        "rate": 550.0,
+        "amount": 14850.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 82,
+        "rate": 461.0,
+        "amount": 37802.0
+      }
+    ],
+    "subtotal": 52652.0,
+    "cgst": 4738.68,
+    "sgst": 4738.68,
+    "total": 62129.36,
+    "confidence": 1.0
+  },
+  "inv_05.pdf": {
+    "invoice_no": "INV/2026/0005",
+    "invoice_date": "2026-08-20",
+    "due_date": "2026-11-18",
+    "seller_name": "Deccan Wiring Systems",
+    "seller_gstin": "24FMXQD1757N1ZA",
+    "buyer_name": "Adani Enterprises Ltd",
+    "buyer_gstin": "27GELKH2948R1ZT",
+    "items": [
+      {
+        "description": "Plastic moulded parts",
+        "qty": 145,
+        "rate": 52.0,
+        "amount": 7540.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 151,
+        "rate": 126.0,
+        "amount": 19026.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 36,
+        "rate": 84.0,
+        "amount": 3024.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 39,
+        "rate": 409.0,
+        "amount": 15951.0
+      }
+    ],
+    "subtotal": 45541.0,
+    "cgst": 4098.69,
+    "sgst": 4098.69,
+    "total": 51007.38,
+    "confidence": 0.99
+  },
+  "inv_06.pdf": {
+    "invoice_no": "INV/2026/0006",
+    "invoice_date": "2026-09-21",
+    "due_date": "2026-12-20",
+    "seller_name": "Kumar Precision Tools",
+    "seller_gstin": "27BFHCG1263L1Z4",
+    "buyer_name": "Vodafone Idea Ltd",
+    "buyer_gstin": "27BZVZY8142M1ZI",
+    "items": [
+      {
+        "description": "Plastic moulded parts",
+        "qty": 172,
+        "rate": 117.0,
+        "amount": 20124.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 135,
+        "rate": 214.0,
+        "amount": 28890.0
+      }
+    ],
+    "subtotal": 49014.0,
+    "cgst": 4411.26,
+    "sgst": 4411.26,
+    "total": 57836.52,
+    "confidence": 0.99
+  },
+  "inv_07.pdf": {
+    "invoice_no": "INV/2026/0007",
+    "invoice_date": "2026-08-25",
+    "due_date": "2026-11-23",
+    "seller_name": "Shree Ganesh Fasteners",
+    "seller_gstin": "27AHFTR8040G1ZZ",
+    "buyer_name": "Tata Motors Ltd",
+    "buyer_gstin": "27WHQPD7575A1ZM",
+    "items": [
+      {
+        "description": "Steel fasteners M12",
+        "qty": 10,
+        "rate": 82.0,
+        "amount": 820.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 173,
+        "rate": 31.0,
+        "amount": 5363.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 199,
+        "rate": 43.0,
+        "amount": 8557.0
+      }
+    ],
+    "subtotal": 14740.0,
+    "cgst": 1326.6,
+    "sgst": 1326.6,
+    "total": 17393.2,
+    "confidence": 1.0
+  },
+  "inv_08.pdf": {
+    "invoice_no": "INV/2026/0008",
+    "invoice_date": "2026-10-24",
+    "due_date": "2026-12-23",
+    "seller_name": "Lakshmi Industrial Supplies",
+    "seller_gstin": "07KFZNC0167N1ZR",
+    "buyer_name": "Asian Paints Ltd",
+    "buyer_gstin": "29HMOSW5244D1Z7",
+    "items": [
+      {
+        "description": "Plastic moulded parts",
+        "qty": 48,
+        "rate": 189.0,
+        "amount": 9072.0
+      },
+      {
+        "description": "Steel fasteners M12",
+        "qty": 104,
+        "rate": 114.0,
+        "amount": 11856.0
+      }
+    ],
+    "subtotal": 20928.0,
+    "cgst": 1883.52,
+    "sgst": 1883.52,
+    "total": 24695.04,
+    "confidence": 0.99
+  },
+  "inv_09.pdf": {
+    "invoice_no": "INV/2026/0009",
+    "invoice_date": "2026-09-07",
+    "due_date": "2026-11-06",
+    "seller_name": "Lakshmi Industrial Supplies",
+    "seller_gstin": "07KFZNC0167N1ZR",
+    "buyer_name": "Infosys Ltd",
+    "buyer_gstin": "07IAYWV3089C1ZF",
+    "items": [
+      {
+        "description": "Auto wiring harness",
+        "qty": 103,
+        "rate": 340.0,
+        "amount": 35020.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 63,
+        "rate": 555.0,
+        "amount": 34965.0
+      }
+    ],
+    "subtotal": 69985.0,
+    "cgst": 6298.65,
+    "sgst": 6298.65,
+    "total": 82582.3,
+    "confidence": 0.99
+  },
+  "inv_10.pdf": {
+    "invoice_no": "INV/2026/0010",
+    "invoice_date": "2026-08-16",
+    "due_date": "2026-11-14",
+    "seller_name": "Patil Auto Components",
+    "seller_gstin": "29NAFQO2580Z1Z1",
+    "buyer_name": "Tata Steel Ltd",
+    "buyer_gstin": "24AOPAS0003Q1ZI",
+    "items": [
+      {
+        "description": "Plastic moulded parts",
+        "qty": 49,
+        "rate": 110.0,
+        "amount": 5390.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 55,
+        "rate": 41.0,
+        "amount": 2255.0
+      },
+      {
+        "description": "Steel fasteners M12",
+        "qty": 55,
+        "rate": 82.0,
+        "amount": 4510.0
+      },
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 181,
+        "rate": 143.0,
+        "amount": 25883.0
+      }
+    ],
+    "subtotal": 38038.0,
+    "cgst": 3423.42,
+    "sgst": 3423.42,
+    "total": 46688.84,
+    "confidence": 1.0
+  },
+  "inv_11.pdf": {
+    "invoice_no": "INV/2026/0011",
+    "invoice_date": "2026-08-10",
+    "due_date": "2026-10-09",
+    "seller_name": "Patil Auto Components",
+    "seller_gstin": "29NAFQO2580Z1Z1",
+    "buyer_name": "Asian Paints Ltd",
+    "buyer_gstin": "29HMOSW5244D1Z7",
+    "items": [
+      {
+        "description": "Packaging cartons",
+        "qty": 61,
+        "rate": 44.0,
+        "amount": 2684.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 88,
+        "rate": 533.0,
+        "amount": 46904.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 16,
+        "rate": 57.0,
+        "amount": 912.0
+      }
+    ],
+    "subtotal": 50500.0,
+    "cgst": 4545.0,
+    "sgst": 4545.0,
+    "total": 55826.0,
+    "confidence": 1.0
+  },
+  "inv_12.pdf": {
+    "invoice_no": "INV/2026/0012",
+    "invoice_date": "2026-08-10",
+    "due_date": "2026-10-09",
+    "seller_name": "Bharat Polymers",
+    "seller_gstin": "24FGYQP1713U1Z8",
+    "buyer_name": "Hindustan Unilever Ltd",
+    "buyer_gstin": "07TRSKR3842C1ZB",
+    "items": [
+      {
+        "description": "Auto wiring harness",
+        "qty": 174,
+        "rate": 821.0,
+        "amount": 142854.0
+      },
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 183,
+        "rate": 217.0,
+        "amount": 39711.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 17,
+        "rate": 418.0,
+        "amount": 7106.0
+      }
+    ],
+    "subtotal": 189671.0,
+    "cgst": 17070.39,
+    "sgst": 17070.39,
+    "total": 223811.78,
+    "confidence": 1.0
+  },
+  "inv_13.pdf": {
+    "invoice_no": "INV/2026/0013",
+    "invoice_date": "2026-08-28",
+    "due_date": "2026-11-26",
+    "seller_name": "Kumar Precision Tools",
+    "seller_gstin": "27BFHCG1263L1Z4",
+    "buyer_name": "Infosys Ltd",
+    "buyer_gstin": "07IAYWV3089C1ZF",
+    "items": [
+      {
+        "description": "Steel fasteners M12",
+        "qty": 162.0,
+        "rate": 95.0,
+        "amount": 15390.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 196.0,
+        "rate": 621.0,
+        "amount": 121716.0
+      }
+    ],
+    "subtotal": 137106.0,
+    "cgst": 12339.54,
+    "sgst": 12339.54,
+    "total": 166474.08,
+    "confidence": 1.0
+  },
+  "inv_14.pdf": {
+    "invoice_no": "INV/2026/0014",
+    "invoice_date": "2026-08-29",
+    "due_date": "2026-10-28",
+    "seller_name": "Patil Auto Components",
+    "seller_gstin": "29NAFQO2580Z1Z1",
+    "buyer_name": "Asian Paints Ltd",
+    "buyer_gstin": "29HMOSW5244D1Z7",
+    "items": [
+      {
+        "description": "Steel fasteners M12",
+        "qty": 191,
+        "rate": 95.0,
+        "amount": 18145.0
+      },
+      {
+        "description": "Steel fasteners M12",
+        "qty": 143,
+        "rate": 108.0,
+        "amount": 15444.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 194,
+        "rate": 100.0,
+        "amount": 19400.0
+      }
+    ],
+    "subtotal": 52989.0,
+    "cgst": 4769.01,
+    "sgst": 4769.01,
+    "total": 62527.02,
+    "confidence": 1.0
+  },
+  "inv_15.pdf": {
+    "invoice_no": "INV/2026/0015",
+    "invoice_date": "2026-09-30",
+    "due_date": "2026-12-29",
+    "seller_name": "Bharat Polymers",
+    "seller_gstin": "24FGYQP1713U1Z8",
+    "buyer_name": "Asian Paints Ltd",
+    "buyer_gstin": "29HMOSW5244D1Z7",
+    "items": [
+      {
+        "description": "Auto wiring harness",
+        "qty": 179,
+        "rate": 427.0,
+        "amount": 76433.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 86,
+        "rate": 179.0,
+        "amount": 15394.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 180,
+        "rate": 718.0,
+        "amount": 129240.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 113,
+        "rate": 602.0,
+        "amount": 68026.0
+      }
+    ],
+    "subtotal": 289093.0,
+    "cgst": 26018.37,
+    "sgst": 26018.37,
+    "total": 341129.74,
+    "confidence": 1.0
+  },
+  "inv_16.pdf": {
+    "invoice_no": "INV/2026/0016",
+    "invoice_date": "2026-09-22",
+    "due_date": "2026-12-21",
+    "seller_name": "Lakshmi Industrial Supplies",
+    "seller_gstin": "07KFZNC0167N1ZR",
+    "buyer_name": "Infosys Ltd",
+    "buyer_gstin": "07IAYWV3089C1ZF",
+    "items": [
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 183,
+        "rate": 124.0,
+        "amount": 22692.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 155,
+        "rate": 227.0,
+        "amount": 35185.0
+      },
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 150,
+        "rate": 80.0,
+        "amount": 12000.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 83,
+        "rate": 515.0,
+        "amount": 42745.0
+      }
+    ],
+    "subtotal": 112622.0,
+    "cgst": 10135.98,
+    "sgst": 10135.98,
+    "total": 132893.96,
+    "confidence": 1.0
+  },
+  "inv_17.pdf": {
+    "invoice_no": "INV/2026/0017",
+    "invoice_date": "2026-08-27",
+    "due_date": "2026-11-25",
+    "seller_name": "Om Sai Engineering",
+    "seller_gstin": "07FITBV8409S1ZI",
+    "buyer_name": "Vodafone Idea Ltd",
+    "buyer_gstin": "27BZVZY8142M1ZI",
+    "items": [
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 123,
+        "rate": 134.0,
+        "amount": 16482.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 131,
+        "rate": 353.0,
+        "amount": 46243.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 53,
+        "rate": 71.0,
+        "amount": 3763.0
+      }
+    ],
+    "subtotal": 66488.0,
+    "cgst": 5983.92,
+    "sgst": 5983.92,
+    "total": 78455.84,
+    "confidence": 1.0
+  },
+  "inv_18.pdf": {
+    "invoice_no": "INV/2026/0018",
+    "invoice_date": "2026-08-23",
+    "due_date": "2026-11-21",
+    "seller_name": "Kumar Precision Tools",
+    "seller_gstin": "27BFHCG1263L1Z4",
+    "buyer_name": "Adani Enterprises Ltd",
+    "buyer_gstin": "27GELKH2948R1ZT",
+    "items": [
+      {
+        "description": "Packaging cartons",
+        "qty": 182,
+        "rate": 34.0,
+        "amount": 6188.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 60,
+        "rate": 24.0,
+        "amount": 1440.0
+      }
+    ],
+    "subtotal": 7628.0,
+    "cgst": 686.52,
+    "sgst": 686.52,
+    "total": 9001.04,
+    "confidence": 1.0
+  },
+  "inv_19.pdf": {
+    "invoice_no": "INV/2026/0019",
+    "invoice_date": "2026-09-19",
+    "due_date": "2026-12-18",
+    "seller_name": "Shree Ganesh Fasteners",
+    "seller_gstin": "27AHFTR8040G1ZZ",
+    "buyer_name": "Reliance Industries Ltd",
+    "buyer_gstin": "24TIHEA7797Q1ZM",
+    "items": [
+      {
+        "description": "Steel fasteners M12",
+        "qty": 126,
+        "rate": 93.0,
+        "amount": 11718.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 157,
+        "rate": 99.0,
+        "amount": 15543.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 188,
+        "rate": 148.0,
+        "amount": 27824.0
+      },
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 112,
+        "rate": 142.0,
+        "amount": 15904.0
+      }
+    ],
+    "subtotal": 70989.0,
+    "cgst": 6389.01,
+    "sgst": 6389.01,
+    "total": 83767.02,
+    "confidence": 1.0
+  },
+  "inv_20.pdf": {
+    "invoice_no": "INV/2026/0020",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-10-16",
+    "seller_name": "Mehta Packaging Works",
+    "seller_gstin": "29SIEYI0086Z1Z9",
+    "buyer_name": "Reliance Industries Ltd",
+    "buyer_gstin": "24TIHEA7797Q1ZM",
+    "items": [
+      {
+        "description": "Packaging cartons",
+        "qty": 55,
+        "rate": 59.0,
+        "amount": 3245.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 128,
+        "rate": 162.0,
+        "amount": 20736.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 73,
+        "rate": 384.0,
+        "amount": 28032.0
+      }
+    ],
+    "subtotal": 52013.0,
+    "cgst": 4681.17,
+    "sgst": 4681.17,
+    "total": 61375.34,
+    "confidence": 1.0
+  },
+  "inv_21.pdf": {
+    "invoice_no": "INV/2026/0021",
+    "invoice_date": "2026-09-26",
+    "due_date": "2026-12-25",
+    "seller_name": "Patil Auto Components",
+    "seller_gstin": "29NAFQO2580Z1Z1",
+    "buyer_name": "Maruti Suzuki India Ltd",
+    "buyer_gstin": "27RJKWB6607Z1ZE",
+    "items": [
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 153,
+        "rate": 302.0,
+        "amount": 46206.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 123,
+        "rate": 816.0,
+        "amount": 100368.0
+      },
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 150,
+        "rate": 194.0,
+        "amount": 29100.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 200,
+        "rate": 45.0,
+        "amount": 9000.0
+      }
+    ],
+    "subtotal": 184674.0,
+    "cgst": 16620.66,
+    "sgst": 16620.66,
+    "total": 217915.32,
+    "confidence": 1.0
+  },
+  "inv_25.pdf": {
+    "invoice_no": "INV/2026/0025",
+    "invoice_date": "2026-09-15",
+    "due_date": "2026-12-14",
+    "seller_name": "Shree Ganesh Fasteners",
+    "seller_gstin": "27AHFTR8040G1ZZ",
+    "buyer_name": "Tata Steel Ltd",
+    "buyer_gstin": "24AOPAS0003Q1ZI",
+    "items": [
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 198,
+        "rate": 289.0,
+        "amount": 57222.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 66,
+        "rate": 274.0,
+        "amount": 18084.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 79,
+        "rate": 42.0,
+        "amount": 3318.0
+      }
+    ],
+    "subtotal": 78624.0,
+    "cgst": 7076.16,
+    "sgst": 7076.16,
+    "total": 92776.32,
+    "confidence": 1.0
+  },
+  "inv_26.pdf": {
+    "invoice_no": "INV/2026/0026",
+    "invoice_date": "2026-09-10",
+    "due_date": "2026-12-09",
+    "seller_name": "Deccan Wiring Systems",
+    "seller_gstin": "24FMXQD1757N1ZA",
+    "buyer_name": "Reliance Industries Ltd",
+    "buyer_gstin": "24TIHEA7797Q1ZM",
+    "items": [
+      {
+        "description": "Plastic moulded parts",
+        "qty": 113.0,
+        "rate": 92.0,
+        "amount": 10396.0
+      },
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 42.0,
+        "rate": 239.0,
+        "amount": 10038.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 16.0,
+        "rate": 382.0,
+        "amount": 6112.0
+      },
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 161.0,
+        "rate": 224.0,
+        "amount": 36064.0
+      }
+    ],
+    "subtotal": 62610.0,
+    "cgst": 5634.9,
+    "sgst": 5634.9,
+    "total": 73879.8,
+    "confidence": 1.0
+  },
+  "inv_22.pdf": {
+    "invoice_no": "INV/2026/0022",
+    "invoice_date": "2026-08-17",
+    "due_date": "2026-10-16",
+    "seller_name": "Deccan Wiring Systems",
+    "seller_gstin": "24FMXQD1757N1ZA",
+    "buyer_name": "Hindustan Unilever Ltd",
+    "buyer_gstin": "07TRSKR3842C1ZA",
+    "items": [
+      {
+        "description": "Auto wiring harness",
+        "qty": 143,
+        "rate": 796.0,
+        "amount": 113828.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 71,
+        "rate": 120.0,
+        "amount": 8520.0
+      },
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 29,
+        "rate": 153.0,
+        "amount": 4437.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 79,
+        "rate": 36.0,
+        "amount": 2844.0
+      }
+    ],
+    "subtotal": 129629.0,
+    "cgst": 11666.61,
+    "sgst": 11666.61,
+    "total": 152962.22,
+    "confidence": 1.0
+  },
+  "inv_23.pdf": {
+    "invoice_no": "INV/2026/0023",
+    "invoice_date": "2026-09-29",
+    "due_date": "2026-11-28",
+    "seller_name": "Bharat Polymers",
+    "seller_gstin": "24FGYQP1713U1Z8",
+    "buyer_name": "Adani Enterprises Ltd",
+    "buyer_gstin": "27GELKH2948R1ZA",
+    "items": [
+      {
+        "description": "Packaging cartons",
+        "qty": 108,
+        "rate": 59.0,
+        "amount": 6372.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 190,
+        "rate": 28.0,
+        "amount": 5320.0
+      }
+    ],
+    "subtotal": 11692.0,
+    "cgst": 1052.28,
+    "sgst": 1052.28,
+    "total": 13796.56,
+    "confidence": 1.0
+  },
+  "inv_24.pdf": {
+    "invoice_no": "INV/2026/0024",
+    "invoice_date": "2026-09-08",
+    "due_date": "2026-12-07",
+    "seller_name": "Patil Auto Components",
+    "seller_gstin": "29NAFQO2580Z1Z1",
+    "buyer_name": "Asian Paints Ltd",
+    "buyer_gstin": "29HMOSW5244D1Z7",
+    "items": [
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 116.0,
+        "rate": 95.0,
+        "amount": 11020.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 117.0,
+        "rate": 39.0,
+        "amount": 4563.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 188.0,
+        "rate": 155.0,
+        "amount": 29140.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 107.0,
+        "rate": 272.0,
+        "amount": 29104.0
+      }
+    ],
+    "subtotal": 73827.0,
+    "cgst": 6644.43,
+    "sgst": 6644.43,
+    "total": 87115.86,
+    "confidence": 1.0
+  },
+  "inv_27.pdf": {
+    "invoice_no": "INV/2026/0027",
+    "invoice_date": "2026-08-24",
+    "due_date": "2026-11-22",
+    "seller_name": "Shree Ganesh Fasteners",
+    "seller_gstin": "27AHFTR8040G1ZZ",
+    "buyer_name": "Tata Motors Ltd",
+    "buyer_gstin": "27WHQPD7575A1ZM",
+    "items": [
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 56,
+        "rate": 92.0,
+        "amount": 5152.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 107,
+        "rate": 635.0,
+        "amount": 67945.0
+      }
+    ],
+    "subtotal": 73097.0,
+    "cgst": 6578.73,
+    "sgst": 6578.73,
+    "total": 86254.46,
+    "confidence": 1.0
+  },
+  "dup_01.pdf": {
+    "invoice_no": "INV/2026/0015",
+    "invoice_date": "2026-09-30",
+    "due_date": "2026-12-29",
+    "seller_name": "Bharat Polymers",
+    "seller_gstin": "24FGYQP1713U1Z8",
+    "buyer_name": "Asian Paints Ltd",
+    "buyer_gstin": "29HMOSW5244D1Z7",
+    "items": [
+      {
+        "description": "Auto wiring harness",
+        "qty": 179,
+        "rate": 427.0,
+        "amount": 76433.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 86,
+        "rate": 179.0,
+        "amount": 15394.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 180,
+        "rate": 718.0,
+        "amount": 129240.0
+      },
+      {
+        "description": "Auto wiring harness",
+        "qty": 113,
+        "rate": 602.0,
+        "amount": 68026.0
+      }
+    ],
+    "subtotal": 289093.0,
+    "cgst": 26018.37,
+    "sgst": 26018.37,
+    "total": 341129.74,
+    "confidence": 1.0
+  },
+  "dup_02.pdf": {
+    "invoice_no": "INV/2026/0024",
+    "invoice_date": "2026-09-08",
+    "due_date": "2026-12-07",
+    "seller_name": "Patil Auto Components",
+    "seller_gstin": "29NAFQO2580Z1Z1",
+    "buyer_name": "Asian Paints Ltd",
+    "buyer_gstin": "29HMOSW5244D1Z7",
+    "items": [
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 116,
+        "rate": 95.0,
+        "amount": 11020.0
+      },
+      {
+        "description": "Packaging cartons",
+        "qty": 117,
+        "rate": 39.0,
+        "amount": 4563.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 188,
+        "rate": 155.0,
+        "amount": 29140.0
+      },
+      {
+        "description": "Industrial lubricant (litre)",
+        "qty": 107,
+        "rate": 272.0,
+        "amount": 29104.0
+      }
+    ],
+    "subtotal": 73827.0,
+    "cgst": 6644.43,
+    "sgst": 6644.43,
+    "total": 87115.86,
+    "confidence": 1.0
+  },
+  "dup_03.pdf": {
+    "invoice_no": "INV/2026/0019",
+    "invoice_date": "2026-09-19",
+    "due_date": "2026-12-18",
+    "seller_name": "Shree Ganesh Fasteners",
+    "seller_gstin": "27AHFTR8040G1ZZ",
+    "buyer_name": "Reliance Industries Ltd",
+    "buyer_gstin": "24TIHEA7797Q1ZM",
+    "items": [
+      {
+        "description": "Steel fasteners M12",
+        "qty": 126,
+        "rate": 93.0,
+        "amount": 11718.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 157,
+        "rate": 99.0,
+        "amount": 15543.0
+      },
+      {
+        "description": "Plastic moulded parts",
+        "qty": 188,
+        "rate": 148.0,
+        "amount": 27824.0
+      },
+      {
+        "description": "Cotton fabric (metre)",
+        "qty": 112,
+        "rate": 142.0,
+        "amount": 15904.0
+      }
+    ],
+    "subtotal": 70989.0,
+    "cgst": 6389.01,
+    "sgst": 6389.01,
+    "total": 83767.02,
+    "confidence": 1.0
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "ADANIENT.NS": {
+    "buyer": "Adani Enterprises Ltd",
+    "ticker": "ADANIENT.NS",
+    "score": 63,
+    "band": "MEDIUM RISK",
+    "ratios": {
+      "interest_coverage": 3.1155717818645967,
+      "debt_to_equity": 1.3175228712174525,
+      "negative_equity": false,
+      "current_ratio": 1.038426473271688,
+      "net_margin": 0.09314598159993186,
+      "altman_z": 1.4801286901313828
+    },
+    "points": {
+      "interest_coverage": 18,
+      "debt_to_equity": 8,
+      "altman_z": 12,
+      "current_ratio": 10,
+      "net_margin": 15
+    },
+    "news_penalty": 0,
+    "negative_headlines": [],
+    "headlines": [
+      "GQG Partners sells Rs 24,400 cr worth of Indian stocks in 2026; ITC, Adani shares among key exits - The Economic Times",
+      "Navi Mumbai International Airport Adds TajSATS Flight Kitchen to Support Airline Growth - Adani",
+      "Adani Enterprises Drops 6% As Adani Stocks Face Fresh Selling - Dalal Street Investment Journal",
+      "Adani group stocks under pressure; Enterprises, Green Energy tank up to 7% - Business Standard",
+      "GQG selling rattles ITC, Adani stocks as Nifty hits 52-week low amid global yield shock - Moneycontrol.com",
+      "India regulator allows Adani, four group firms to settle public-float violations case - Reuters",
+      "This Adani Group share is among Jefferies India's top 3 picks despite the RBI's 25 bps Repo Rate hike - Livemint",
+      "Adani Enterprises: AEL gets highest-ever rating in its credit history; shares up over 22% YTD - IndiaIPO"
+    ],
+    "as_of": "2026-10-09"
+  },
+  "LT.NS": {
+    "buyer": "Larsen & Toubro Ltd",
+    "ticker": "LT.NS",
+    "score": 65,
+    "band": "MEDIUM RISK",
+    "ratios": {
+      "interest_coverage": 10.124179815379428,
+      "debt_to_equity": 1.1482959983456829,
+      "negative_equity": false,
+      "current_ratio": 1.2507443393061095,
+      "net_margin": 0.05658889699396454,
+      "altman_z": 2.4330430935503458
+    },
+    "points": {
+      "interest_coverage": 25,
+      "debt_to_equity": 8,
+      "altman_z": 12,
+      "current_ratio": 10,
+      "net_margin": 10
+    },
+    "news_penalty": 0,
+    "negative_headlines": [],
+    "headlines": [
+      "L&T Wins Orders (Mega*) for Power Transmission & Distribution Business - Larsen & Toubro",
+      "L&T Energy CarbonLite Solutions Secures LNTP for 1,600 MW Thermal Power Plant (Major*) Order - Larsen & Toubro",
+      "L&T receives LNTP for 1.6GW Chandrapura thermal project in India - Power Technology",
+      "Larsen & Toubro Wins Mega Contract Valued Between \u20b910,000 Crore and \u20b915,000 Crore - Sahi",
+      "Larsen & Toubro wins major ultra-supercritical order from Damodar Valley-Coal India JV - T&D India",
+      "L&T wins power transmission orders worth up to \u20b915k cr in India, West Asia - Business Standard",
+      "L&T unit wins mega orders worth up to \u20b915,000 crore in India, Saudi Arabia, UAE; Stock gains - CNBC TV18",
+      "L&T Secures Power Transmission EPC Orders in India, Saudi Arabia, UAE - News and Statistics - IndexBox"
+    ],
+    "as_of": "2026-10-09"
+  },
+  "HINDUNILVR.NS": {
+    "buyer": "Hindustan Unilever Ltd",
+    "ticker": "HINDUNILVR.NS",
+    "score": 95,
+    "band": "LOW RISK",
+    "ratios": {
+      "interest_coverage": 34.68780487804878,
+      "debt_to_equity": 0.030325413435101974,
+      "negative_equity": false,
+      "current_ratio": 1.223294102514631,
+      "net_margin": 0.2358734689396672,
+      "altman_z": 3.464260813742964
+    },
+    "points": {
+      "interest_coverage": 25,
+      "debt_to_equity": 20,
+      "altman_z": 25,
+      "current_ratio": 10,
+      "net_margin": 15
+    },
+    "news_penalty": 0,
+    "negative_headlines": [],
+    "headlines": [
+      "Macquarie cut target for Hindustan Unilever stock to INR 2,750.00 - AD HOC NEWS",
+      "Hindustan Unilever makes Q1FY27 earnings call recording available - scanx.trade",
+      "UNDP - HUL partner to scale up circular economy for plastics - Hindustan Unilever Limited",
+      "Hindustan Unilever Share Price rises 2.01% on valuation view - Univest",
+      "HUL plans capex boost; eyes entry into new areas - The Times of India",
+      "Hindustan Unilever Ltd Share Price Today NSE/BSE Charts - Alice Blue",
+      "Delhi High Court bars ads saying Hindustan Unilever\u2019s Vim, Surf Excel cause skin irritation - The Indian Express",
+      "HUL Performance Highlights for FY 2025\u201326 - Hindustan Unilever Limited"
+    ],
+    "as_of": "2026-10-09"
+  },
+  "IDEA.NS": {
+    "buyer": "Vodafone Idea Ltd",
+    "ticker": "IDEA.NS",
+    "score": 32,
+    "band": "HIGH RISK",
+    "ratios": {
+      "interest_coverage": 2.6048683049194037,
+      "debt_to_equity": null,
+      "negative_equity": true,
+      "current_ratio": 0.5511854670059714,
+      "net_margin": 0.771439415928018,
+      "altman_z": -2.6769305184376813
+    },
+    "points": {
+      "interest_coverage": 10,
+      "debt_to_equity": 0,
+      "altman_z": 3,
+      "current_ratio": 4,
+      "net_margin": 15
+    },
+    "news_penalty": 0,
+    "negative_headlines": [],
+    "headlines": [
+      "Vodafone Idea Q1 Results: Earnings call scheduled for Aug 11 - scanx.trade",
+      "Vodafone Idea surges 5% in weak market on huge volume; here's why - Business Standard",
+      "Vodafone Idea, Bharti Airtel: Q2 results preview, share price targets - Business Today",
+      "Vodafone Idea Showcases Vinzy Personal AI Assistant at IMC 2026 - TelecomTalk",
+      "Is Vodafone Idea finally making a comeback? - Finshots",
+      "Vodafone Idea Share Price Today: What Price Action Shows - Univest",
+      "India telecom tariffs rising 12-15% in next 4-5 months, Centrum - Communications Today",
+      "Can Vodafone Idea still compete in India's 5G race? - Light Reading"
+    ],
+    "as_of": "2026-10-09"
+  },
+  "TATAMOTORS.NS": {
+    "buyer": "Tata Motors Ltd",
+    "ticker": "TATAMOTORS.NS",
+    "score": 46,
+    "band": "INSUFFICIENT DATA",
+    "ratios": {
+      "interest_coverage": null,
+      "debt_to_equity": null,
+      "negative_equity": false,
+      "current_ratio": null,
+      "net_margin": null,
+      "altman_z": null
+    },
+    "points": {
+      "interest_coverage": 10,
+      "debt_to_equity": 10,
+      "altman_z": 12,
+      "current_ratio": 7,
+      "net_margin": 7
+    },
+    "news_penalty": 0,
+    "negative_headlines": [],
+    "headlines": [
+      "Moving India\u2019s Growth Engine - The Tata group. Leadership with Trust.",
+      "Tata Motors sells 1.97 lakh passenger vehicles in Q2 FY2 - StoryBoard 18",
+      "India's Tata Motors sees firm demand, plans price hikes as commodity costs rise - Reuters",
+      "Eight in 100 cars sold in India are now EVs; Tata leads the charge - Business Today",
+      "Next-gen Tata Nexon to Launch Before Avinya Series in 2027 - CarLelo",
+      "Tata Motors PV sales rise 15% to 68,810 units in September - ET Auto",
+      "Tata Motors passenger vehicle sales rise 15% in September 2026 - India Today",
+      "Tata Motors Commercial Vehicles Announces Stong Sales in September 2026: 42.4% YoY Increase - ACKO Drive"
+    ],
+    "as_of": "2026-10-09"
+  },
+  "ASIANPAINT.NS": {
+    "buyer": "Asian Paints Ltd",
+    "ticker": "ASIANPAINT.NS",
+    "score": 100,
+    "band": "LOW RISK",
+    "ratios": {
+      "interest_coverage": 31.72227623970114,
+      "debt_to_equity": 0.18383891886378131,
+      "negative_equity": false,
+      "current_ratio": 2.2091029579633643,
+      "net_margin": 0.12170063222934703,
+      "altman_z": 6.711694185982402
+    },
+    "points": {
+      "interest_coverage": 25,
+      "debt_to_equity": 20,
+      "altman_z": 25,
+      "current_ratio": 15,
+      "net_margin": 15
+    },
+    "news_penalty": 0,
+    "negative_headlines": [],
+    "headlines": [
+      "Asian Paints (India) rallies Tuesday, outperforms market - MarketWatch",
+      "RBI hikes repo rate for first time in 3.5 years, Titan in focus, Asian Paints dividend, Messi's Argentina farewell and more - LinkedIn",
+      "Asian Paints Dividend: Here's what 9.2 lakh retail investors need to know about past payouts, record date and - CNBC TV18",
+      "Asian Paints Share Price gains 2.03%; fundamentals in focus - Univest",
+      "Asian Paints champions worry-free celebrations with Beautiful Homes Painting Services - Passionate In Marketing",
+      "India's Asian Paints maintains FY27 growth target, sees no immediate price hikes - Reuters",
+      "Assemble perfection effortlessly with Asian Paints\u2019 latest adhesive duo - Architect and Interiors India",
+      "Asian Paints Limited Beat Analyst Estimates: See What The Consensus Is Forecasting For This Year - Simply Wall Street"
+    ],
+    "as_of": "2026-10-09"
+  },
+  "INFY.NS": {
+    "buyer": "Infosys Ltd",
+    "ticker": "INFY.NS",
+    "score": 100,
+    "band": "LOW RISK",
+    "ratios": {
+      "interest_coverage": 96.87234042553192,
+      "debt_to_equity": 0.0988146331493971,
+      "negative_equity": false,
+      "current_ratio": 1.9782451051486585,
+      "net_margin": 0.16435162218474056,
+      "altman_z": 8.236117230828263
+    },
+    "points": {
+      "interest_coverage": 25,
+      "debt_to_equity": 20,
+      "altman_z": 25,
+      "current_ratio": 15,
+      "net_margin": 15
+    },
+    "news_penalty": 0,
+    "negative_headlines": [],
+    "headlines": [
+      "Infosys, Wipro, HCLTech, other IT shares in focus owing to multiple factors today; Details here - CNBC TV18",
+      "Microsoft, Infosys, Tata, Wipro, Cognizant, HCL and Capgemini hit by US H-1B, Green Card crackdown - The Indian Express",
+      "Infosys, TCS, Wipro, HCL Tech shares: H-1B suspension impact, ADR reaction, what's next? - Business Today",
+      "Indian IT Stocks Under Pressure: Infosys, Wipro ADRs Fall After US Suspends Major Firms From Immigration Programme - NDTV Profit",
+      "US suspends work visa program for Indian IT firms, Microsoft citing widespread abuse - Livemint",
+      "Infosys To Tata: Which Indian Tech Firms Are Among 8 Hit By US H-1B, Green Card Crackdown - News18",
+      "TCS shares rise ahead of Q2 results; Mphasis, Coforge, Infosys also gain; here's why - BusinessToday - IndiaIPO",
+      "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest"
+    ],
+    "as_of": "2026-10-09"
+  },
+  "TATASTEEL.NS": {
+    "buyer": "Tata Steel Ltd",
+    "ticker": "TATASTEEL.NS",
+    "score": 50,
+    "band": "MEDIUM RISK",
+    "ratios": {
+      "interest_coverage": 3.228067017717167,
+      "debt_to_equity": 0.9042165499549025,
+      "negative_equity": false,
+      "current_ratio": 0.7482659503471195,
+      "net_margin": 0.046870065399596435,
+      "altman_z": 0.9573932151615706
+    },
+    "points": {
+      "interest_coverage": 18,
+      "debt_to_equity": 15,
+      "altman_z": 3,
+      "current_ratio": 4,
+      "net_margin": 10
+    },
+    "news_penalty": 0,
+    "negative_headlines": [],
+    "headlines": [
+      "Tata Steel\u2019s Chero Archers Return for Archery Premier League Season 2 - Tata Steel",
+      "Tata Steel Q2 FY27 Crude Steel Production Rises 10% YoY To 6.21 Million Tons - Sahi",
+      "German Green Steel & Power Ltd (GERMAN) Share Price - Business Today",
+      "Tata Steel Brings Sustainability to Life in Phase 2 of #WeAlsoMakeTomorrow - Business Standard",
+      "Tata Steel plans INR 40,000 crore long products expansion at Neelachal Ispat - Prop News Time",
+      "Tata Steel Q2 Update: India crude steel production up 10%; deliveries rise 15% - CNBC TV18",
+      "Tata Steels sales down marginally in Q2 - BusinessLine",
+      "Tata Steel Q2FY27 Results: India crude steel production up 10% YoY to 6.21 MT - scanx.trade"
+    ],
+    "as_of": "2026-10-09"
+  },
+  "RELIANCE.NS": {
+    "buyer": "Reliance Industries Ltd",
+    "ticker": "RELIANCE.NS",
+    "score": 72,
+    "band": "LOW RISK",
+    "ratios": {
+      "interest_coverage": 6.119803791153974,
+      "debt_to_equity": 0.44025087663020035,
+      "negative_equity": false,
+      "current_ratio": 1.097911516589254,
+      "net_margin": 0.0764032806826211,
+      "altman_z": 2.176777333729165
+    },
+    "points": {
+      "interest_coverage": 25,
+      "debt_to_equity": 20,
+      "altman_z": 12,
+      "current_ratio": 10,
+      "net_margin": 10
+    },
+    "news_penalty": 5,
+    "negative_headlines": [
+      "Indian billionaire Ambani's Reliance Industries eyes $1 bln debt fundraise, bankers say - Reuters"
+    ],
+    "headlines": [
+      "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance UK",
+      "Reliance Industries leads India in buying Venez... - Pluang",
+      "\u2018Is Ambani the real boss of India\u2019, asks Elon Musk as Centre refutes bias in Starlink authorisation - The Hindu",
+      "Reliance Industries (NSEI:RELIANCE) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "Jio Platforms IPO could unlock value at RIL, drive re-rating: Motilal Oswal - Moneycontrol.com",
+      "Reliance Industries gains 3% as Jio IPO plan fuels hopes of value unlocking - Business Standard",
+      "Jio IPO vs Reliance Industries: Understanding the Relationship Between the Two - ThePrint",
+      "Indian billionaire Ambani's Reliance Industries eyes $1 bln debt fundraise, bankers say - Reuters"
+    ],
+    "as_of": "2026-10-09"
+  },
+  "MARUTI.NS": {
+    "buyer": "Maruti Suzuki India Ltd",
+    "ticker": "MARUTI.NS",
+    "score": 95,
+    "band": "LOW RISK",
+    "ratios": {
+      "interest_coverage": 81.09426057813154,
+      "debt_to_equity": 0.0009565466519467357,
+      "negative_equity": false,
+      "current_ratio": 1.0679053294663954,
+      "net_margin": 0.08289096022961803,
+      "altman_z": 5.592006552593998
+    },
+    "points": {
+      "interest_coverage": 25,
+      "debt_to_equity": 20,
+      "altman_z": 25,
+      "current_ratio": 10,
+      "net_margin": 15
+    },
+    "news_penalty": 0,
+    "negative_headlines": [],
+    "headlines": [
+      "Deep Localisation Key To Sustainable Business In India: Maruti Chief - NDTV",
+      "India Car Sales September 2026: Dispatches Rise 21% to 4.58 Lakh Units; Maruti Suzuki Leads, Tata and Mahindra Follow - Autopunditz",
+      "Maruti Suzuki Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More - NDTV Profit",
+      "Maruti Suzuki India Ltd is Rated Sell - MarketsMojo",
+      "Maruti Suzuki India CEO On Company's Next Growth Lever And \"Deep Localisation\" Play - NDTV",
+      "Passenger vehicle wholesales grow in double digits in September - The Hindu",
+      "India's Maruti Suzuki hikes prices for a third time since May - Reuters",
+      "Maruti Suzuki India total sales rise 24% to 2.36 lakh units in September - The Economic Times"
+    ],
+    "as_of": "2026-10-09"
+  }
+}
